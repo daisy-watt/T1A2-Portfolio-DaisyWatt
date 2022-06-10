@@ -2,7 +2,7 @@
 
 coder portfolio T1A2
 <!-- link (URL) to my published portfolio website -->
-https://github.com/daisy-watt/T1A2-Portfolio-DaisyWatt
+[(https://quirky-hodgkin-7ef6c9.netlify.app/index.html)]
 
 Site Desicription - (Daisy Watt Portfolio T1A2)
 
